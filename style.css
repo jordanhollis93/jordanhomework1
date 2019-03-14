@@ -1,0 +1,11 @@
+section {
+    display: block;
+    float: left;
+    width: 495px;
+    height: 267px;
+    overflow: hidden;
+  
+
+  color: 'green',
+  background: 'black'
+}
